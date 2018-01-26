@@ -1,6 +1,8 @@
 # love2d_voxel_demo
 fork of [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) in [Lua](https://www.lua.org) and [LÖVE](https://love2d.org/)
 
+![screenshot](/screenshot.jpg?raw=true)
+
 # control
 key|action
 -|-
