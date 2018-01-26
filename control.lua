@@ -6,6 +6,7 @@ move.z = 0
 move.r = 0.0
 move.h = 0
 
+local lg = love.graphics
 local sin = math.sin
 local cos = math.cos
 local PI = math.pi
